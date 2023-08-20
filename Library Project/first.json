@@ -1,0 +1,43 @@
+{
+  "student":[
+   {
+     "id":1,
+     "rollno":121,
+     "name":"veeru",
+     "city":"bhopal"
+   },  
+    {
+     "id":2,
+     "rollno":122,
+     "name":"raju",
+     "city":"indor"
+   },  	
+    {
+     "id":3,
+     "rollno":123,
+     "name":"rahul",
+     "city":"ujjain"
+   }  		
+  ],
+
+  "stufees":[
+   {
+     "id":4,
+     "rollno":124,
+     "fees":"22000",
+     "city":"bhopal"
+   },  
+    {
+     "id":5,
+     "rollno":122,
+     "fees":"23000",
+     "city":"indor"
+   },  	
+    {
+     "id":6,
+     "rollno":123,
+     "fees":"24000",
+     "city":"ujjain"
+   } 		
+  ]
+}

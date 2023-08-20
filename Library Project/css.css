@@ -1,0 +1,61 @@
+#box
+{
+	background-color:#0f2b52;
+	width: 1000px;
+	height: 800px;
+	margin: auto;
+	border: 1px solid;
+	color: white;
+	
+
+}
+#box1
+{
+	height: 50px;
+	background-color: lightblue;
+	color: black;
+	text-align: center;
+}
+#menu
+{
+	height: 50px;
+	background-color: #0f2b52;
+    color: white;
+    padding-top: 10px;
+    font-family: verdana;
+    font-weight: bold;
+
+
+
+}
+a
+{
+	color: white;
+	margin: 20px;
+	text-decoration: none;
+	
+
+}
+#for
+{
+	margin-left: 300px;
+	margin-top: 40px;
+
+}
+
+#lab1
+{
+	margin : 20px;
+}
+.in1
+{
+	margin-left: 20px;
+}
+.in3
+{
+	margin-left: 30px;
+}
+.in4
+{
+	margin-left: 40px;
+}

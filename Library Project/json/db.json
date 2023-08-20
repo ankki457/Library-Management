@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "Book_id": "15",
+      "Book_name": "django",
+      "Auther_name": "pawan",
+      "Price": "1200",
+      "id": 7,
+      "Book_Id": "101",
+      "Author_name": "ashish"
+    },
+    {
+      "Book_Id": "102",
+      "Book_name": "React",
+      "Author_name": "Divyanshu",
+      "price": {},
+      "id": 9,
+      "Price": "1000"
+    },
+    {
+      "Book_Id": "103",
+      "Book_name": "c++ programing",
+      "Author_name": "Vikash",
+      "price": {},
+      "id": 10,
+      "Price": "1400"
+    },
+    {
+      "Book_Id": "104",
+      "Book_name": "redhate",
+      "Author_name": "yesh sir",
+      "price": {},
+      "id": 11,
+      "Price": "1700"
+    },
+    {
+      "Book_Id": "105",
+      "Book_name": "React",
+      "Author_name": "Divyanshu",
+      "price": {},
+      "id": 12,
+      "Price": "1900"
+    },
+    {
+      "Book_Id": "106",
+      "Book_name": "c programing",
+      "Author_name": "ankit",
+      "price": {},
+      "id": 13,
+      "Price": "2322"
+    }
+  ],
+  "stufees": [
+    {
+      "id": 4,
+      "Book_id": 124,
+      "Book_name": "react Programing",
+      "Auther_name": "vijay razz",
+      "Price": "8000"
+    },
+    {
+      "id": 5,
+      "Book_id": 125,
+      "Book_name": "html Programing",
+      "Auther_name": "sonu patel",
+      "Price": "9000"
+    },
+    {
+      "id": 6,
+      "Book_id": 126,
+      "Book_name": "django Programing",
+      "Auther_name": "premkumar",
+      "Price": "10000"
+    }
+  ]
+}
